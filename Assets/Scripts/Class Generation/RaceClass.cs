@@ -5,7 +5,7 @@ using UnityEngine;
 [System.Serializable]
 public class RaceClass
 {
-    public enum race { Badger, Bunny, Hedgedog, Squirrel, Weasel}
+    public enum race { Badger, Bunny, Hedgehog, Squirrel, Weasel}
     public enum gender { Female, Male }
 
     public race raceType;
